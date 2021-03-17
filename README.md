@@ -27,6 +27,5 @@ anomaly-detection-in-endoscopic-imagery/
 ├── .gitignore
 ├── .dvcignore
 ├── README.md
-├── requirements.txt
-└── setup.py
+└── requirements.txt
 ```
