@@ -1,0 +1,5 @@
+outs:
+- md5: 23de98f18035f31248d53c2dc974c936.dir
+  size: 1252190557
+  nfiles: 4000
+  path: kvasir-dataset
