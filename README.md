@@ -29,3 +29,8 @@ anomaly-detection-in-endoscopic-imagery/
 ├── README.md
 └── requirements.txt
 ```
+# installation
+- create python enviroment [_using pip, pythonenv or virtaulenv_]
+- install libaries by running the command `pip install -r requirements.txt`
+- open the project on a IDE that spin-up `Ipython kernel` automantically [_Pycharm, VScode_]
+- run any model in `src/model/` directory
